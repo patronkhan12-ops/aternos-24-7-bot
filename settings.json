@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TangiroSMP.aternos.me
-",
+    "ip": "TangiroSMP.aternos.me",
     "port": 27419,
     "version": "1.20.1",
     "try-creative": false
